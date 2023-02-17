@@ -35,11 +35,11 @@ TypeScript Deep Dive
 * 
 * This is sweet! So many #typescript goodies! [link](https://twitter.com/pauliescanlon/status/989898852474998784)
 
-## Get Started
-If you are here to read the book online [get started](https://basarat.gitbook.io/typescript/getting-started).
+## শুরু করুন
+ আপনি যদি অনলাইনে বইটি পড়তে চান [শুরু করুন](https://basarat.gitbook.io/typescript/getting-started).
 
-## Translations 
-Book is completely free so you can copy paste whatever you want without requiring permission. If you have a translation you want me to link here. [Send a PR](https://github.com/basarat/typescript-book/edit/master/README.md).
+## অনুবাদসমূহ
+বইটি সম্পূর্ণ বিনামূল্যে তাই আপনি অনুমতি ছাড়াই আপনি যা চান তা কপি পেস্ট করতে পারেন। আপনার যদি একটি অনুবাদ থাকে তবে আপনি আমাকে এখানে লিঙ্ক করতে চান। [পুল রিকোয়েস্ট পাঠান](https://github.com/basarat/typescript-book/edit/master/README.md).
 * [Filipino](https://github.com/themarshann/typescript-book-fil)
 * [Italian](https://github.com/TizioFittizio/typescript-book)
 * [Chinese](https://github.com/jkchao/typescript-book-chinese)
@@ -53,7 +53,7 @@ Book is completely free so you can copy paste whatever you want without requirin
 * [Thai](https://github.com/futurouz/typescript-book)
 
 
-## Other Options
+## অন্যান্য অপশন
 আপনি এখান [actions tab](https://github.com/basarat/typescript-book/actions) থেকে Epub, Mobi, বা PDF ফরম্যাটের একটি ডাউনলোড করতে পারেন সর্বশেষ বিল্ড রানে ক্লিক করে। আপনি আর্টিফ্যাক্ট বিভাগে ফাইল পাবেন।
 
 ## বিশেষ ধন্যবাদ
