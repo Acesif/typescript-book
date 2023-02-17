@@ -3,9 +3,9 @@
 TypeScript Deep Dive
 =======
 
-I've been looking at the issues that turn up commonly when people start using TypeScript. This is based on the lessons from [Stack Overflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) and general engagement with the [TypeScript community](https://github.com/TypeStrong/). You can [follow for updates](https://twitter.com/basarat) and [don't forget to ★ on GitHub](https://github.com/basarat/typescript-book) 🌹
+টাইপস্ক্রিপ্ট ব্যবহার করার সময় যেইসব সমস্যাগুলো সাধারণত দেখা যায়, আমি সেই সমস্যাগুলির সমাধানের চেষ্টা করেছি। এই পাঠগুলো এর [Stack Overflow](http://stackoverflow.com/tags/typescript/topusers) / [DefinitelyTyped](https://github.com/DefinitelyTyped/) উপর ভিত্তি করে এবং [TypeScript community](https://github.com/TypeStrong/) এর সহযোগিতায় সাজানো হয়েছে। আপনি [আপডেটের জন্য ফলো করতে পারেন](https://twitter.com/basarat) এবং [GitHub এ ★ করতে ভুলবেন না](https://github.com/basarat/typescript-book) 🌹
 
-## Reviews
+## মন্তব্য
 
 * Thanks for the wonderful book. Learned a lot from it. ([link](https://www.gitbook.com/book/basarat/typescript/discussions/21#comment-1468279131934))
 * Its probably the Best TypeScript book out there. Good Job ([link](https://twitter.com/thelondonjs/status/756419561570852864))
@@ -51,12 +51,13 @@ Book is completely free so you can copy paste whatever you want without requirin
 * [French](https://github.com/HachemiH/typescript-book)
 * [Polish](https://github.com/mbiesiad/typescript-book/tree/pl_PL)
 * [Thai](https://github.com/futurouz/typescript-book)
+* [Bengali](https://github.com/Acesif/typescript-book)
 
 ## Other Options
-You can also download one of the Epub, Mobi, or PDF formats from the [actions tab](https://github.com/basarat/typescript-book/actions) by clicking on the latest build run. You will find the files in the artifacts section.
+আপনি এখান [actions tab](https://github.com/basarat/typescript-book/actions) থেকে Epub, Mobi, বা PDF ফরম্যাটের একটি ডাউনলোড করতে পারেন সর্বশেষ বিল্ড রানে ক্লিক করে। আপনি আর্টিফ্যাক্ট বিভাগে ফাইল পাবেন।
 
-## Special Thanks
-All the amazing [contributors](https://github.com/basarat/typescript-book/graphs/contributors) 🌹
+## বিশেষ ধন্যবাদ
+সকল চমৎকার [contributors](https://github.com/basarat/typescript-book/graphs/contributors) 🌹
 
-## Share
-Share URL: https://basarat.gitbook.io/typescript/
+## শেয়ার
+শেয়ার লিংক : https://basarat.gitbook.io/typescript/
