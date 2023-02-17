@@ -51,7 +51,7 @@ Book is completely free so you can copy paste whatever you want without requirin
 * [French](https://github.com/HachemiH/typescript-book)
 * [Polish](https://github.com/mbiesiad/typescript-book/tree/pl_PL)
 * [Thai](https://github.com/futurouz/typescript-book)
-* [Bengali](https://github.com/Acesif/typescript-book)
+
 
 ## Other Options
 আপনি এখান [actions tab](https://github.com/basarat/typescript-book/actions) থেকে Epub, Mobi, বা PDF ফরম্যাটের একটি ডাউনলোড করতে পারেন সর্বশেষ বিল্ড রানে ক্লিক করে। আপনি আর্টিফ্যাক্ট বিভাগে ফাইল পাবেন।
